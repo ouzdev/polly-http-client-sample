@@ -1,0 +1,12 @@
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\bin\Debug\net6.0\Shared.Common.deps.json
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\bin\Debug\net6.0\Shared.Common.dll
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\bin\Debug\net6.0\Shared.Common.pdb
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.csproj.AssemblyReference.cache
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.AssemblyInfoInputs.cache
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.AssemblyInfo.cs
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.csproj.CoreCompileInputs.cache
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.dll
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\refint\Shared.Common.dll
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\Shared.Common.pdb
+C:\Users\ogenc\RiderProjects\HttpClientFactorySimple\Shared.Common\obj\Debug\net6.0\ref\Shared.Common.dll
